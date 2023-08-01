@@ -91,9 +91,7 @@ This project aims to scan phone numbers, email addresses and links to ensure the
 
 
 ## Documentation
-You can see how I used the API by accessing this link(https://www.ipqualityscore.com/documentation/overview) 
-
-[Documentation](https://www.ipqualityscore.com/documentation/overview)
+You can see how I used the API by accessing [this link](https://www.ipqualityscore.com/documentation/overview) 
 
 
 ## FAQ

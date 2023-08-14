@@ -8,28 +8,28 @@ const Features = () => {
 
     const stats = [
         {
-            title: '10+',
+            title: 'Email Validation',
             content: (
                 <>
-                    <StatsText> Software modules </StatsText> for deailed monitoring and real-time analytics
+                    <StatsText> Validate email addresses </StatsText> and analyze email reputations with real-time checks
                 </>
             ),
         },
 
         {
-            title: '24/7',
+            title: 'Phone Validation & Reputation',
             content: (
                 <>
-                    <StatsText>Analytics</StatsText> enabled right in your dashboard without limitations
+                    <StatsText>Validate phone numbers</StatsText> in any country while retrieving the risk-score, fraud score and much more
                 </>
             ),
         },
 
         {
-            title: '250M+',
+            title: 'Malicious URL Scanner & Domain Reputation',
             content: (
                 <>
-                    <StatsText>Plants</StatsText> currently connected and monitored by QSS™ software
+                    <StatsText>Scan URLs and domains</StatsText> to identify zero-day phishing, malware, and suspicious links.
                 </>
             ),
         },

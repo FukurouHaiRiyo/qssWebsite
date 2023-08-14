@@ -1,6 +1,7 @@
 import React from 'react';
 import Nav from './compoents/Nav';
 import Features from './compoents/Features';
+import Testimonials from './compoents/Testimonials';
 
 const Home = () => {
   return (
@@ -42,6 +43,10 @@ const Home = () => {
         </div>
       </div>
       <Features/>
+      
+      <div>
+        <Testimonials/>
+      </div>
     </div>
   )
 }

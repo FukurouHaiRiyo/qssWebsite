@@ -123,4 +123,4 @@ Install qssWebsite with npm
 
 ## Acknowledgements
 
- - This project is a website made for [Quality-Safety-Security] app (https://github.com/FukurouHaiRiyo/Quality-Safety-Security)
+ - This project is a website made for Quality-Safety-Security app (https://github.com/FukurouHaiRiyo/Quality-Safety-Security)

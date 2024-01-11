@@ -110,3 +110,17 @@ Please check https://www.ipqualityscore.com/ for more information.
 #### 3. What does this app show me?
 
 This app will show you how trustworthy are emails, phone numbers and links.
+
+
+## Installation
+
+Install qssWebsite with npm
+
+```bash
+  npm install qssWebsite
+  cd qssWebsite
+```
+
+## Acknowledgements
+
+ - This project is a website made for [Quality-Safety-Security] app (https://github.com/FukurouHaiRiyo/Quality-Safety-Security)

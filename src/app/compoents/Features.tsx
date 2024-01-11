@@ -73,12 +73,7 @@ const Features = () => {
                         </div>
                         <br/>                        
                         <div className="space-y-4 sm:space-y-0 sm:space-x-6 flex flex-col sm:flex-row">
-                            <p className='text-xl text-gray-400'>Wanna check out the app?
-                                {' '}<Link href = '/check' className="text-xl text-red-400">
-                                    Click here
-                                </Link>
-                                {' '}to learn more.
-                            </p>
+                            <Check/>
                         </div>
                     </div>
                 </div>

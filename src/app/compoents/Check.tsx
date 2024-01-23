@@ -6,7 +6,7 @@ const Check = () => {
     <div className='flex justify-center items-center space-x-5 p-5 rounded-lg bg-black'>
       <div className='flex flex-col items-center bg-black'>
         <Image
-          src='/android.png'
+          src='/a.png'
           width={500}
           height={500}
           alt='exp://u.expo.dev/update/6ba79249-7a26-4879-9cb8-880c18a8cb60'
@@ -18,7 +18,7 @@ const Check = () => {
 
       <div className='flex flex-col items-center'>
         <Image
-          src='/ios.png'
+          src='/i.png'
           width={500}
           height={500}
           alt='exp://u.expo.dev/update/bbbd645e-9326-4279-8792-87d9bd15fc3b'
